@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4169E1&width=435&lines=Welcome+to+my+GitHub!;I+am+M.+A.+Leli!" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+M.+A.+Leli;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="150" />
+	<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="200" />
 </div>
 
 ## The Wizard Behind the Code 🧙‍♂️
@@ -12,155 +12,112 @@
 
 ## 🎨 Mad Skills and Magic Tricks
 
-### 🖌️ Design Sorcery
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="45px"/>
-</div>
-
-### 🛠️ Code Conjuring
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45px"/>
-</div>
-
-### 🔍 Testing Titan
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" alt="Karma" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45px"/>
-</div>
-
-### 🚀 Deployment Dynamo
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45px"/>
-</div>
-
-### 🧩 Programming Potions
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45px"/>
-</div>
-
-### 🗄️ Database Dabbler
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgre SQL" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45px"/>          
-</div>
-
-### 📚 Version Control Virtuoso
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45px"/>
-</div>
-
-### ⚙️ OS Mastery
-
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 1rem; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="45px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="45px"/>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; padding: 1rem 0;">
+	<!-- Frontend -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50px"/>
+	<!-- Backend Languages -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px"/>
+	<!-- Databases -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50px"/>
+	<!-- DevOps & Cloud -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="50px"/>
+	<!-- Design & Tools -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="50px"/>
 </div>
 
 ## ✨ Featured Projects
 
-<div style="width: 100%; display: flex; align-items: flex-start; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>🛒 Prodigo</h3>
-    <p>An ecommerce web application designed to offer a seamless shopping experience. Discover a wide range of products, enjoy easy navigation, and benefit from secure transactions, making online shopping a breeze.</p>
-    <a href="https://github.com/M-A-Leli/Prodigo" target="_blank">Repo</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>🎟️ Eventure</h3>
-    <p>An event hunting and management web platform that simplifies finding, organizing, and managing events. Connect with organizers, discover exciting events, and manage your own events effortlessly.</p>
-    <a href="https://github.com/M-A-Leli/Eventure" target="_blank">Repo</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>🌍 Tourista</h3>
-    <p>A tours and travel web application designed to connect travelers with amazing destinations and seamless booking experiences. Discover, plan, and embark on unforgettable adventures.</p>
-    <a href="https://github.com/M-A-Leli/Tourista" target="_blank">Repo</a>
-  </div>
-  
-</div>
-
-## 🚧 Work in Progress
-
-<div style="width: 100%; display: flex; align-items: flex-start; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>💬 Chutt</h3>
-    <p>A real-time web chat application that brings instant communication to your fingertips. Enjoy smooth and responsive chatting with friends and colleagues, powered by real-time updates and a user-friendly interface.</p>
-    <a href="https://github.com/M-A-Leli/Chutt" target="_blank">Repo</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>🏡 NestFind</h3>
-    <p>A house hunting platform and rental management web application that simplifies finding, renting, and managing properties with ease. Experience seamless property search, comprehensive listings, and efficient rental management all in one place.</p>
-    <a href="https://github.com/M-A-Leli/NestFind" target="_blank">Repo</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1rem; max-width: 300px; text-align: left;">
-    <h3>📚 InternHub</h3>
-    <p>A web application project that acts as an intermediary between students, learning institutions, and organizations. It helps students find attachments and internships easily, and organizations find talent effortlessly.</p>
-    <a href="https://github.com/M-A-Leli/InternHub" target="_blank">Repo</a>
-  </div>
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">📚 InternSync</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A web application that bridges students, universities, and organizations. InternSync simplifies internship placements, helping students find opportunities and companies discover talent effortlessly.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🎟️ Venyto</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">An event discovery and management platform designed to bring people together. Whether attending or organizing, Venyto makes event participation vibrant, simple, and impactful.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏢 TenanCyX</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A cloud-based management system tailored for small and medium businesses. TenanCyX streamlines inventory, sales, and customer management through a modular and scalable interface.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏡 Nestsy</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A house-hunting and rental management web app that makes finding, renting, and managing properties effortless. Experience seamless property search and efficient rental processes in one place.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🌍 Tourister</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A travel discovery and booking platform connecting explorers to breathtaking destinations. Tourister makes discovering, planning, and booking adventures seamless and inspiring.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🛒 Prodigo</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A modern ecommerce web application built for a smooth and secure shopping experience. Browse diverse products with intuitive navigation and lightning-fast checkouts.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">💬 Chutt</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A real-time chat web app that brings conversations to life. Enjoy fast, responsive messaging and a clean, intuitive interface that makes staying connected natural and effortless.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
+	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🧰 OSAPIS</h3>
+		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A curated collection of open-source backend APIs built to help developers — especially frontend learners — integrate ready-to-use backends quickly. Each API includes clear docs and links to its repo.</p>
+		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+	</div>
 </div>
 
 ## 📊 GitHub Wizardry
 
-<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-A-Leli&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Leli&layout=compact&theme=radical" alt="Most Used Languages" style="max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Leli&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
-</div>
-
-## 🏆 Trophies of Triumph
-
-<div align="center" style="width: 100%; display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-A-Leli&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; flex: 1 1 auto;" />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1.5rem; max-width: 900px; margin: 2rem auto;">
+	<img src="https://github-readme-stats.vercel.app/api?username=M-A-Leli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1" alt="GitHub Stats" style="width: 100%; height: 200px; object-fit: contain;" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Leli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Most Used Languages" style="width: 100%; height: 200px; object-fit: contain;" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Leli&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" alt="GitHub Streak" style="width: 100%; height: 200px; object-fit: contain; grid-column: 1 / -1;" />
 </div>
 
 ## 🌐 Let's Get Social!
 
-<div align="center" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:m.lelialvin@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=08851b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-  <a href="https://x.com/M_A_Leli" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=X (Twitter)&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
-  </a>
-  <a href="https://www.instagram.com/m_a_leli" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  </a>
-  <a href="https://discord.com/invite/r3dtnX7p" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
-  </a>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; flex-wrap: wrap; margin: 2rem 0;">
+	<a href="https://m-a-leli.com" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google-Chrome&label=&color=0891b2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
+	</a>
+	<a href="https://wa.me/254759017133?text=Hello%20there%21" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
+	</a>
+	<a href="https://x.com/M_A_Leli" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter)" />
+	</a>
+	<a href="https://www.instagram.com/m_a_leli" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+	</a>
+	<a href="mailto:m.lelialvin@gmail.com" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+	</a>
+	<a href="https://discord.gg/SU9J3nRN" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+	</a>
 </div>
