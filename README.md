@@ -52,42 +52,42 @@
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">📚 InternSync</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A web application that bridges students, universities, and organizations. InternSync simplifies internship placements, helping students find opportunities and companies discover talent effortlessly.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=internsync&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🎟️ Venyto</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">An event discovery and management platform designed to bring people together. Whether attending or organizing, Venyto makes event participation vibrant, simple, and impactful.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=venyto&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏢 TenanCyX</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A cloud-based management system tailored for small and medium businesses. TenanCyX streamlines inventory, sales, and customer management through a modular and scalable interface.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=tenancyx&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏡 Nestsy</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A house-hunting and rental management web app that makes finding, renting, and managing properties effortless. Experience seamless property search and efficient rental processes in one place.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=nestsy&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🌍 Tourister</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A travel discovery and booking platform connecting explorers to breathtaking destinations. Tourister makes discovering, planning, and booking adventures seamless and inspiring.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=tourister&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🛒 Prodigo</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A modern ecommerce web application built for a smooth and secure shopping experience. Browse diverse products with intuitive navigation and lightning-fast checkouts.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=prodigo&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">💬 Chutt</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A real-time chat web app that brings conversations to life. Enjoy fast, responsive messaging and a clean, intuitive interface that makes staying connected natural and effortless.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=chutt&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
 		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🧰 OSAPIS</h3>
 		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A curated collection of open-source backend APIs built to help developers — especially frontend learners — integrate ready-to-use backends quickly. Each API includes clear docs and links to its repo.</p>
-		<a href="https://m-a-leli.com/en#projects" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
+		<a href="https://m-a-leli.works/en?query=osapis&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
 	</div>
 </div>
 
@@ -105,19 +105,16 @@
 	<a href="https://m-a-leli.com" target="_blank" style="text-decoration: none;">
 		<img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google-Chrome&label=&color=0891b2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
 	</a>
-	<a href="https://wa.me/254759017133?text=Hello%20there%21" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-	</a>
-	<a href="https://x.com/M_A_Leli" target="_blank" style="text-decoration: none;">
+	<a href="https://x.com/m_a_leli" target="_blank" style="text-decoration: none;">
 		<img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter)" />
 	</a>
 	<a href="https://www.instagram.com/m_a_leli" target="_blank" style="text-decoration: none;">
 		<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
 	</a>
+	<a href="https://wa.me/254117834910?text=Hello%20there%21" target="_blank" style="text-decoration: none;">
+		<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
+	</a>
 	<a href="mailto:m.lelialvin@gmail.com" target="_blank" style="text-decoration: none;">
 		<img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-	</a>
-	<a href="https://discord.gg/SU9J3nRN" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
 	</a>
 </div>
