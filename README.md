@@ -1,120 +1,360 @@
-<h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+M.+A.+Leli;Full+Stack+Developer" alt="Typing SVG" />
-</h1>
+<!--
+    SECTION: Identity
+    Includes: Name, introduction, primary links
+    Purpose: Introduce who I am
+-->
+
+<h1 align="center">M. A. Leli</h1>
+
+<p align="center">
+    Backend focused Software Engineer specializing in scalable backend systems,
+    authentication and authorization, modular architectures, developer tooling,
+    and AI assisted software development.
+</p>
+
+<p align="center">
+    I enjoy designing systems that remain clean, maintainable, and extensible as
+    they grow. My focus is building software that developers can confidently
+    integrate, extend, and build upon.
+</p>
+
+<p align="center">
+    <a href="https://m-a-leli.com">Portfolio</a>
+    •
+    <a href="https://github.com/M-A-Leli?tab=repositories">Projects</a>
+    •
+    <a href="https://github.com/M-A-Leli/OSAPIS">OSAPIS</a>
+    •
+    <a href="mailto:m.lelialvin@gmail.com">Email</a>
+</p>
+
+<br/>
+
+<!--
+    SECTION: Now
+    Includes: Current work, learning, availability
+    Purpose: Show current focus
+-->
+
+## Now
+
+### Building
+
+- Reusable authentication and authorization components that can be integrated into Laravel and Node.js applications with minimal configuration.
+
+- A configurable Angular application template designed for CRUD intensive systems where new modules can be introduced primarily through configuration rather than repetitive boilerplate.
+
+- AI assisted development workflows that improve software quality, automate repetitive engineering tasks, and accelerate application development.
+
+### Exploring
+
+- Kotlin and Spring Boot for large scale backend systems.
+
+- Advanced PostgreSQL optimization and database design.
+
+- Software architecture patterns for highly modular SaaS platforms.
+
+- Practical applications of AI that improve software engineering and everyday productivity.
+
+### Looking For
+
+I'm open to
+
+- Backend Software Engineering roles
+
+- Full Stack Software Engineering roles with a backend focus
+
+- Freelance projects
+
+- Contract opportunities
+
+- Technical consulting
+
+- Open source collaboration
+
+<br/>
+
+<!--
+    SECTION: Stack
+    Includes: Primary technologies, supporting technologies, interests
+    Purpose: Show technical expertise
+-->
+
+## Stack
+
+### Building With
+
+#### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+
+#### Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+
+#### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
+#### Cloud & Infrastructure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+
+#### Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+### Experienced With
+
+#### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
+
+#### Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="32" height="32"/>
+
+#### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="32" height="32"/>
+
+#### Cloud & Infrastructure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="32" height="32"/>
+
+### Interests
+
+- Backend architecture
+
+- Authentication
+
+- Authorization
+
+- RBAC and permission systems
+
+- API design
+
+- Developer tooling
+
+- AI assisted software engineering
+
+- AI applications for business and society
+
+- System design
+
+- Database design
+
+- Performance optimization
+
+- Scalable SaaS platforms
+
+- Software architecture
+
+- Automation
+
+- Open source
+
+- Developer experience
+
+- Knowledge management
+
+- Human computer interaction
+
+<br/>
+
+<!--
+    SECTION: Selected Projects
+    Includes: Notable projects and links
+    Purpose: Showcase engineering experience
+-->
+
+## Selected Projects
+
+Most of my projects explore scalable backend architecture, modular application design, workflow automation, authentication and authorization, and reusable software patterns across different domains.
+
+---
+
+### InternSync
+
+An internship management platform connecting students, universities, and organizations throughout the internship lifecycle.
+
+Designed around role based access control, multi stage approval workflows, application tracking, organization onboarding, and communication between multiple stakeholder groups. The system demonstrates modular backend design, workflow driven business logic, and permission aware APIs that expose different capabilities to different users.
+
+**Live:** https://m-a-leli.works/en?query=internsync&category=web
+
+<br/>
+
+### OSAPIS
+
+An open source collection of production ready backend APIs built to help developers integrate common backend functionality without starting from scratch.
+
+Each API demonstrates production focused architecture including authentication, authorization, CRUD operations, validation, documentation, modular project organization, and clean API design. The project serves both as a reusable backend toolkit and a learning resource for developers exploring backend engineering.
+
+**Live:** https://m-a-leli.works/en?query=osapis&category=web
+
+**Repository:** https://github.com/M-A-Leli/OSAPIS
+
+<br/>
+
+### TenanCyX
+
+A cloud based business management platform supporting inventory, sales, customer management, reporting, and day to day business operations.
+
+Built around a modular architecture that allows new business modules to be introduced without disrupting existing functionality. The project emphasizes maintainability, scalability, reusable business logic, and permission driven access across multiple business processes.
+
+**Live:** https://m-a-leli.works/en?query=tenancyx&category=web
+
+<br/>
+
+### Nestsy
+
+A property discovery and rental management platform supporting property owners, agents, and tenants.
+
+The platform manages the complete rental lifecycle including property listings, advanced search, tenant interactions, rental workflows, and administrative operations. The backend emphasizes scalable data modeling, workflow management, and secure access control.
+
+**Live:** https://m-a-leli.works/en?query=nestsy&category=web
+
+<br/>
+
+### Venyto
+
+An event management platform that simplifies discovering, organizing, and managing events from creation through attendance.
+
+The system includes event publishing, attendee management, organizer workflows, and role specific functionality. The project demonstrates backend architecture capable of supporting complex event lifecycles while maintaining a clean and extensible codebase.
+
+**Live:** https://m-a-leli.works/en?query=venyto&category=web
+
+<br/>
+
+### Tourister
+
+A travel discovery and planning platform that helps users explore destinations and organize travel experiences.
+
+The application combines destination management, travel planning, booking workflows, and content organization within a modular backend architecture designed to support future expansion into additional travel services.
+
+**Live:** https://m-a-leli.works/en?query=tourister&category=web
+
+<br/>
+
+### Prodigo
+
+An ecommerce platform supporting product catalog management, shopping carts, checkout workflows, and order processing.
+
+The backend focuses on structured domain modeling, transactional operations, inventory management, customer accounts, and scalable APIs capable of supporting modern ecommerce applications.
+
+**Live:** https://m-a-leli.works/en?query=prodigo&category=web
+
+<br/>
+
+### Chutt
+
+A realtime messaging platform designed for responsive one to one and group conversations.
+
+Built around realtime communication, conversation management, user presence, and scalable messaging workflows. The project explores low latency communication patterns while maintaining clean backend organization and extensible architecture.
+
+**Live:** https://m-a-leli.works/en?query=chutt&category=web
+
+<br/>
+
+<!--
+    SECTION: Activity
+    Includes: GitHub statistics
+    Purpose: Show development activity
+-->
+
+## Activity
 
 <div align="center">
-	<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="200" />
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=M-A-Leli&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1"
+    alt="GitHub Statistics"
+    height="170"
+/>
+
 </div>
 
-## The Wizard Behind the Code 🧙‍♂️
+<br/>
 
-👋 Hey there! I'm a tech enthusiast and web wizard, driven by a passion for innovation and problem-solving. With a rich toolkit of skills and a love for all things digital, I specialize in crafting seamless, user-friendly web experiences. Whether I'm coding up a storm or brewing the perfect cup of coffee, I'm always up for a new challenge and eager to make the web a better place, one line of code at a time. 🚀✨
+<!--
+    SECTION: Philosophy
+    Includes: Engineering approach
+    Purpose: Communicate how I build software
+-->
 
-## 🎨 Mad Skills and Magic Tricks
+## Engineering Philosophy
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; padding: 1rem 0;">
-	<!-- Frontend -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50px"/>
-	<!-- Backend Languages -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px"/>
-	<!-- Databases -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50px"/>
-	<!-- DevOps & Cloud -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="50px"/>
-	<!-- Design & Tools -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="50px"/>
-</div>
+I believe software should become easier to extend as it grows, not harder.
 
-## ✨ Featured Projects
+I enjoy designing systems that emphasize modular architecture, clean abstractions, reusable components, and well defined boundaries. Whether building an API, an authentication system, or a complete application, I strive to create solutions that remain maintainable long after the first release.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">📚 InternSync</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A web application that bridges students, universities, and organizations. InternSync simplifies internship placements, helping students find opportunities and companies discover talent effortlessly.</p>
-		<a href="https://m-a-leli.works/en?query=internsync&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🎟️ Venyto</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">An event discovery and management platform designed to bring people together. Whether attending or organizing, Venyto makes event participation vibrant, simple, and impactful.</p>
-		<a href="https://m-a-leli.works/en?query=venyto&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏢 TenanCyX</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A cloud-based management system tailored for small and medium businesses. TenanCyX streamlines inventory, sales, and customer management through a modular and scalable interface.</p>
-		<a href="https://m-a-leli.works/en?query=tenancyx&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🏡 Nestsy</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A house-hunting and rental management web app that makes finding, renting, and managing properties effortless. Experience seamless property search and efficient rental processes in one place.</p>
-		<a href="https://m-a-leli.works/en?query=nestsy&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🌍 Tourister</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A travel discovery and booking platform connecting explorers to breathtaking destinations. Tourister makes discovering, planning, and booking adventures seamless and inspiring.</p>
-		<a href="https://m-a-leli.works/en?query=tourister&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🛒 Prodigo</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A modern ecommerce web application built for a smooth and secure shopping experience. Browse diverse products with intuitive navigation and lightning-fast checkouts.</p>
-		<a href="https://m-a-leli.works/en?query=prodigo&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">💬 Chutt</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A real-time chat web app that brings conversations to life. Enjoy fast, responsive messaging and a clean, intuitive interface that makes staying connected natural and effortless.</p>
-		<a href="https://m-a-leli.works/en?query=chutt&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-	<div style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); border: 1px solid #334155; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
-		<h3 style="color: #22D3EE; margin-top: 0; font-size: 1.25rem; font-weight: 600;">🧰 OSAPIS</h3>
-		<p style="color: #CBD5E1; line-height: 1.6; margin: 1rem 0;">A curated collection of open-source backend APIs built to help developers — especially frontend learners — integrate ready-to-use backends quickly. Each API includes clear docs and links to its repo.</p>
-		<a href="https://m-a-leli.works/en?query=osapis&category=web" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #06b6d4, #0891b2); color: #FFFFFF; text-decoration: none; padding: 0.625rem 1.25rem; border-radius: 6px; font-weight: 500; font-size: 0.875rem; transition: all 0.3s ease;">Visit Website →</a>
-	</div>
-</div>
+Much of my current work focuses on reducing repetitive development through reusable tooling, configurable application templates, and AI assisted engineering workflows that allow developers to spend more time solving problems instead of rewriting boilerplate.
 
-## 📊 GitHub Wizardry
+<br/>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1.5rem; max-width: 900px; margin: 2rem auto;">
-	<img src="https://github-readme-stats.vercel.app/api?username=M-A-Leli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1" alt="GitHub Stats" style="width: 100%; height: 200px; object-fit: contain;" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Leli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Most Used Languages" style="width: 100%; height: 200px; object-fit: contain;" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Leli&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" alt="GitHub Streak" style="width: 100%; height: 200px; object-fit: contain; grid-column: 1 / -1;" />
-</div>
+<!--
+    SECTION: Connect
+    Includes: Contact information
+    Purpose: Invite collaboration
+-->
 
-## 🌐 Let's Get Social!
+## Let's Build Something
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; flex-wrap: wrap; margin: 2rem 0;">
-	<a href="https://m-a-leli.com" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google-Chrome&label=&color=0891b2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
-	</a>
-	<a href="https://x.com/m_a_leli" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter)" />
-	</a>
-	<a href="https://www.instagram.com/m_a_leli" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-	</a>
-	<a href="https://wa.me/254117834910?text=Hello%20there%21" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=WhatsApp&logo=WhatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-	</a>
-	<a href="mailto:m.lelialvin@gmail.com" target="_blank" style="text-decoration: none;">
-		<img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-	</a>
-</div>
+I'm always interested in discussing backend engineering, software architecture, developer tooling, AI assisted development, and ambitious products that solve meaningful problems.
+
+I'm available for
+
+- Backend Software Engineering
+
+- Freelance development
+
+- Contract work
+
+- Technical consulting
+
+- Open source collaboration
+
+- Startup opportunities
+
+<br/>
+
+<p align="center">
+
+<a href="https://m-a-leli.com">Portfolio</a>
+•
+<a href="https://github.com/M-A-Leli">GitHub</a>
+•
+<a href="https://github.com/M-A-Leli/OSAPIS">OSAPIS</a>
+•
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+•
+<a href="mailto:m.lelialvin@gmail.com">Email</a>
+
+</p>
+
+<p align="center">
+
+<i>
+Thanks for stopping by.
+If you enjoy building thoughtful software, I'd love to connect.
+</i>
+
+</p>
