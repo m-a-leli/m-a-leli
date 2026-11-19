@@ -1,47 +1,54 @@
 # M. A. Leli
 
-**I build the parts of web apps that make the workflow hold together.**
+**Full-stack developer. Backend by inclination.**
 
-I’m a software developer in Nairobi. I work across the database, API, and interface, and I’m most interested in what happens between screens. Who can move an application forward? What needs to happen to stock when a sale goes through? Which parts of the next admin screen can reuse what’s already there?
+The part of a project I like most is where a product rule becomes a software decision. In a placement workflow, who can take the next action? In a point-of-sale system, what should happen to stock when a sale goes through? I build across the database, API, and interface to make those answers agree.
 
-[Portfolio](https://m-a-leli.com/en) · [Email me](mailto:m.lelialvin@gmail.com)
+[Portfolio](https://m-a-leli.com/en) · [Email](mailto:m.lelialvin@gmail.com)
 
-## Selected projects
+## Project gallery
 
-<p>
-  <img src="./assets/nia-beauty.webp" width="94" alt="">
-  <img src="./assets/internsync.webp" width="94" alt="">
-  <img src="./assets/osapis.webp" width="94" alt="">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nia-beauty.m-a-leli.com/"><img src="assets/nia-beauty.webp" alt="" width="280"><br><strong>Nia Beauty</strong></a>
+      <p>A cosmetics storefront that keeps ingredient information alongside the shopping journey. Laravel and PostgreSQL behind an Angular storefront.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://internsync.m-a-leli.com/"><img src="assets/internsync.webp" alt="" width="280"><br><strong>InternSync</strong></a>
+      <p>Internship discovery and placement management. Students, organizations, and universities each see the same placement process from a different role.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://osapis.m-a-leli.com/"><img src="assets/osapis.webp" alt="" width="280"><br><strong>OSAPIS</strong></a>
+      <p>A catalogue of APIs for developers who want a backend to learn or prototype against. A starting point for wiring up a frontend, a form, or a data view.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tenancyx.m-a-leli.com/"><img src="assets/tenancyx.webp" alt="" width="280"><br><strong>TenanCyX</strong></a>
+      <p>Point of sale, inventory, and supply-chain workflows for wholesalers and retailers. Follow a product from wholesale supply to the retail sale.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://venyto.m-a-leli.com/"><img src="assets/venyto.webp" alt="" width="280"><br><strong>Venyto</strong></a>
+      <p>Event discovery and management. The organizer publishes an event, and the attendee needs enough information to decide whether to go.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nestsy.m-a-leli.com/"><img src="assets/nestsy.webp" alt="" width="280"><br><strong>Nestsy</strong></a>
+      <p>Property search and rental management. A property record has to serve people looking for a place and people managing it afterwards.</p>
+    </td>
+  </tr>
+</table>
 
-### [Nia Beauty](https://nia-beauty.m-a-leli.com/) · Commerce
+## A closer look at how I build
 
-A cosmetics storefront with ingredient information alongside the shopping journey. This is my Laravel, PostgreSQL, and Angular example for taking a product catalogue through to checkout.
+**I start with the workflow.** For a placement or an inventory movement, I want to understand who initiates it, what changes in the database, and which actions become available next. That gives me something concrete to model before writing the API.
 
-### [InternSync](https://internsync.m-a-leli.com/) · Internship workflows
+**I treat permissions as part of the API design.** In one Laravel and Angular design, the server enforces permissions and gives the UI just the capabilities it needs at each level. Global access controls navigation, collection capabilities apply to the list as a whole, and record-specific actions appear when you open the record. That keeps the list payload smaller and makes it clear where each decision belongs.
 
-A platform for students looking for internships and organizations managing placements. The engineering question I find interesting here is how the same application looks to a student, an organization, and a university.
+**I reuse the common parts of admin screens.** Configurable Angular lists and forms are a problem I keep coming back to. Once several screens share the same behavior, I look for a common component with room for the exceptions that each workflow needs.
 
-### [OSAPIS](https://osapis.m-a-leli.com/) · Developer tooling
+My usual tools are **Laravel and PHP** or **Node.js and Express** for APIs, **Angular and TypeScript** for interfaces, and **PostgreSQL, MySQL, and Docker** for data and deployment.
 
-A catalogue of backend APIs for developers building frontends. If you’re wiring up a form or a data view, start here to find an API you can experiment with.
-
-### [TenanCyX](https://tenancyx.m-a-leli.com/) · Inventory and point of sale
-
-Connects wholesale supply, inventory, and retail sales. The interesting part is following stock across those workflows as it moves from supplier to shop to customer.
-
-### [Venyto](https://venyto.m-a-leli.com/) · Events
-
-A platform for discovering and organizing events. I’m interested in where those two journeys meet, from what an organizer needs to publish to what an attendee needs to discover.
-
-### [Nestsy](https://nestsy.m-a-leli.com/) · Rentals
-
-A product that brings property discovery and rental management together. Finding a place and managing a rental are different workflows built around the same property, which makes the data model an interesting part of the work.
-
-## How I build
-
-- **APIs and application logic** with Laravel and PHP or Node.js, Express, and TypeScript. I’m especially interested in how validation and permissions fit into multi-step workflows.
-- **Interfaces** with Angular and TypeScript. I look for patterns that can be shared across forms, lists, and record-management screens.
-- **Data and deployment** with PostgreSQL, MySQL, and Docker. I care about how the application fits together all the way through deployment.
-
-If you’re working on a tricky workflow or a tool that makes repetitive application work easier, [I’d like to hear about it](mailto:m.lelialvin@gmail.com).
+If you’re working on an API, a workflow with several roles, or tooling that makes the next application easier to build, [send me the problem you’re trying to solve](mailto:m.lelialvin@gmail.com).
